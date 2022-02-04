@@ -1,0 +1,16 @@
+name: DuelsPlus
+version: '${project.version}'
+main: me.hex.duelsplus.DuelsPlus
+api-version: 1.17
+authors: [2Hex]
+description: Duels for the trial plugin :o
+commands:
+  duel:
+    description: "Duel a player"
+    permission: duels.duel
+  stats:
+    description: "Check a player stats"
+    permission: duels.stats
+  accept:
+    description: "Accept a duel request"
+    permission: duels.accept

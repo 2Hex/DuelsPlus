@@ -1,0 +1,20 @@
+default_kit:
+kits:
+  warrior:
+    armor_content:
+      helmet:
+        material: DIAMOND_HELMET
+        amount: 1
+      chestPlate:
+        material: DIAMOND_CHESTPLATE
+        amount: 1
+      leggings:
+        material: DIAMOND_LEGGINGS
+        amount: 1
+      boots:
+        material: DIAMOND_BOOTS
+        amount: 1
+    inventory_content:
+      0:
+        material: DIAMOND_SWORD
+        amount: 1

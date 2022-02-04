@@ -1,0 +1,7 @@
+MySQL:
+  host: "host.com"
+  port: 0
+  username: "person"
+  password: "person123"
+  database: "myDatabase"
+

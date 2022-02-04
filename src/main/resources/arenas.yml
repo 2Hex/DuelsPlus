@@ -1,0 +1,8 @@
+Arenas:
+  firstArena:
+    world: "world"
+    firstSpawn: "1,2,3"
+    secondSpawn: "1,2,3"
+    arenaFirstLoc: "1,2,3"
+    arenaSecondLoc: "3,2,1"
+    occupied: false
